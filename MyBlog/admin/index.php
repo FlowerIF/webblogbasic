@@ -65,7 +65,7 @@
     
     $ket_qua = mysqli_query($ket_noi,$sql);
 ?>  
-    <a href="index.php">Trang chủ</a>
+    <a href="../index.php">Trang chủ</a>
     <h3>Update</h3>
     <table border="1" width="100%">
             <caption>

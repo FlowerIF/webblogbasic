@@ -175,8 +175,8 @@
         </div>
 
         <!-- blog-container -->
-        <a href="form_insert.php">Thêm bài đăng</a>
-        <a href="set_update.php">Sửa bài đăng</a>
+        <!-- <a href="form_insert.php">Thêm bài đăng</a>
+        <a href="set_update.php">Sửa bài đăng</a> -->
         <caption>
                 <form action="">
                     Tìm kiếm
