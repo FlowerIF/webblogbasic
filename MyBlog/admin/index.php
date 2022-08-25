@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="shortcut icon" href="../img/favicon.ico.png">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,500;0,600;0,700;0,800;0,900;1,300;1,400&display=swap" rel="stylesheet">
@@ -67,6 +68,7 @@
 ?>  
     <a href="../index.php">Trang chủ</a>
     <h3>Update</h3>
+    <a href="form_insert.php">Thêm bài đăng</a>
     <table border="1" width="100%">
             <caption>
                 <form action="">
